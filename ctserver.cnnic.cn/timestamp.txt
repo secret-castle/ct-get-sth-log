@@ -236,3 +236,25 @@ the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
 { "tree_size": 49241, "timestamp": 1536181735172, "sha256_root_hash": "E14WHm4Ue5E+iyzOjEbtgTEPCVEX4xIHTsHzd7rnGF8=", "tree_head_signature": "BAEBALxKdZngP+vqRjmykFWTM\/3pv6m2Y9A0Cj53xzWB+R39ag+xiX8zD6wHU7xAPo+iQZlUl7CQ4zd44Uit8kOavqUN1lvrqrJgz0G0svv8iAbiwAgGdmNP3qJwBGdotoKZSo4Pu7PVofEiRXjFhRzhbIbDZKgYASOkMcuOpkLe6dUezaktd0vLWJLnPxfRddPt67oea42EeVtKrNJpgsUkMkGYH0v8MxRhTsW9kN96HHLN+KzPoQ\/zQ5ePOKoE0A97xoZ\/wT6RJeIQSOu7tZQWAR3a3p3HAord79tdjzcrEs3CfhYPCA2SbMJrYcNv81kUWtlVHikLikqW9KeK4cdYoIA=" }
 { "tree_size": 49245, "timestamp": 1536185335171, "sha256_root_hash": "Tgk4j1XZa5HRpdxVHjsKs2aY7vhEaG4Hvd3ZaAJ5u2Y=", "tree_head_signature": "BAEBAFFrb5s5Ft3u9euZ3SezJTyZIzh0bNEMU4e94vm8P9xWL332uWBd0JTgR2BNioEf\/7ZQ8KbzzFj2iKvYNvm2LZxECc70Ey3SnRWZ7STF9\/dZhbuJRC4aZHdAldm2638\/mEoLUuQ4RW+OBsNcEP4pnbQRXQFFyJjF8O1MxwiTjTsyaiRd4rEcezxklBylgUN78s9bEjqOrmmdZCh4R+3ceFbQFIPOXVGaOC9EtM5oE58yRH+rxjTl\/QLiUcVVARMAL1KZbIGx2PMNsjMrMxkYhmTot8lq\/98vMVASnoDZmPDE8vEtmW2NHmH9yAFEkltNHYTlz38kCPz7JBuDlw+DEmY=" }
 { "tree_size": 49253, "timestamp": 1536192535171, "sha256_root_hash": "tgSMEVfa6qC2CKtQa6yCLuVozIUT86HnQB63Jacp2ZE=", "tree_head_signature": "BAEBAL3rbOkVX2tXJGpGuMvv1fZhC1MdjFmrXRQF0yTcL7iN3DoOno4QTne\/KO9P9A4seP1yrqC\/JnrAa1sxfSI4f22dpq7rQNJ+j1wrPry9qjhjMv2fMiTfazifmWNdQn8ams91u9WOsG7WINXndKcwaUiHShSHxdNPSnuPsbtebnJSJ5hwWthSDSq0G1ITA7LjpKhhVgjiqnjEX1iZeQpaiPgCqzych5AgqNA3zdvXKg08O51MGfqG73WQ10GBqV8riZRqtt3ME0CVsYHsco7LFSEIdEi0A\/M5HxVrq9gjDVJFHW4dDzZT3BmZ+zBMlLdobrIuxLAJEYao4+r2e8xd++M=" }
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
