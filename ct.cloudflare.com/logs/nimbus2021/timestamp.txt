@@ -911,3 +911,4 @@
 {"tree_size":44472,"timestamp":1538817299813,"sha256_root_hash":"Obm/7RnHP27lbBCno362bUdVb/6AeFn91fnRjtU6EWU=","tree_head_signature":"BAMARzBFAiBaBqLMAYnd6U1MJWt/eQCF1TZBDFzzdv7YteafMJnzpAIhAInZchxDR1di3xtnP5llycaQlobiGdmLRkI1rfNnS3ed"}
 {"tree_size":44665,"timestamp":1538821020921,"sha256_root_hash":"bKpQYbhyuZDInvpyCSHXd7gPL0FKxAkQKrBk0QtslKU=","tree_head_signature":"BAMARjBEAiAC3cFvN7IwDMlNzVq2ak9KoPLZoOWxw7Jehz96t7spkwIgNNWK9bbmmmunCV+N1iQA6MhxCoMNuvf1Q1jkSz0NWII="}
 {"tree_size":44865,"timestamp":1538824619313,"sha256_root_hash":"n41XC7WldpfXgTnixbWpeiYcW9zm1R+Se5R6o7NgTVc=","tree_head_signature":"BAMASDBGAiEA9H7Wuq42SYlzMxgG+hjGI5ifGwWlvOUW6Ha0NHFsLrECIQDLF3HlT/wtxZxqwdR0kAfHshONQgjFgJI68LuUOjUvfA=="}
+{"tree_size":45090,"timestamp":1538828223680,"sha256_root_hash":"7ELHOcjQ9a+a5Xczi2iitiV2oNaXtdx3tyCJJW/a4f8=","tree_head_signature":"BAMARzBFAiA6j5oDfCIMxruEp5oWCKAXlMLUz0kAznl2Mf89rfMtPgIhANCWzZNfrtudVoMXYPRnsVeBUWd9Y7UWjupRTAwnBoor"}
