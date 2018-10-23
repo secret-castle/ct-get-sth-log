@@ -1322,3 +1322,4 @@
 { "tree_size": 106623832, "timestamp": 1540242180818, "sha256_root_hash": "djqPsPCXufZjtdKlpD9211MrlAQn+PGIpV4W10o2yXo=", "tree_head_signature": "BAMARjBEAiBb2Af1gsTSMEgjtCw6I+eOobS\/utYT6CbSEMDZv09AlgIgaRX0Hf+7GesN9lJP4V9N9hILSS8KIrZ7I6qIGv5r\/C8=" }
 
 { "tree_size": 106651268, "timestamp": 1540249380819, "sha256_root_hash": "gy2Nzb53k6QSf7\/2LeDiUNgJIZ3sQLw6PatshjSaAR8=", "tree_head_signature": "BAMARzBFAiEAtLFEV2fDvTck9j9bJpJ92VLknN6+0ub3WN0juj3HEzgCIG4vqpdQWQLwVc4hixxQKuwy8aFNS0x9+qtVscgiQ8eL" }
+{ "tree_size": 106664819, "timestamp": 1540252980818, "sha256_root_hash": "OZ0AMuTElzIkEioNrYVlsxRpMyA6OKdTii90aZ4ZCvY=", "tree_head_signature": "BAMARjBEAiAMvtl00WhCvevjZBvs+T9PHL\/HaeMcXGA\/4mz2af4djAIge\/a4T3huLCH8bCvCX7Ui2Ub2jZlckBz6N+\/JUf4r3Ns=" }
