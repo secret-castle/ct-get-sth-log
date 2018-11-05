@@ -1660,3 +1660,4 @@
 {"tree_size":424290434,"timestamp":1541408635715,"sha256_root_hash":"NsBiIRG02fdkEhhIV8nUDuxtjyr44GTvgktNnjiLhTc=","tree_head_signature":"BAMARjBEAiAPXISVPW4akvYVUAlB+azHWfCHbfhX35w6KiJ5T8tiagIgMAMpwjasM/Qxp5DBquGEse9lIc1kYe05xZ0QehqOvZ4="}
 {"tree_size":424290464,"timestamp":1541412391879,"sha256_root_hash":"ZXpxg0lcCES2zEsZCF8zf30GX+Ts7L43VEZbGo0v758=","tree_head_signature":"BAMARzBFAiA3YnjS2xonm1NPSGPi+Klf2uKAvXXcmLpvD2Xk9jR8lgIhALTu5TsvkJTx2N7b7+mcvOjpAYRdK0sRw3hz78Gf+AHW"}
 {"tree_size":424290488,"timestamp":1541415871906,"sha256_root_hash":"DjlB6qbwGXnNDl8ue/2Ir9K2rRaetqpKCQdSIk6LoHI=","tree_head_signature":"BAMASDBGAiEA7tUEBe1MNxsbnpvjWmWkcw3ORxF+3ct9gbCGkHoNpuECIQDot5ZaBcnUSDzQCN/bKTN0X18I/Ax69a5vhx5Bj6ClPA=="}
+{"tree_size":424290513,"timestamp":1541419617311,"sha256_root_hash":"BELwx65JLrt0DFJGbtagTvLKCSTFNFDHlz/fOry/crY=","tree_head_signature":"BAMARjBEAiBzhQY7vX33CZ1W7eEZR1ksMc4+FERj0RaLfV4kPz5lpAIgAyMgE/loI5xhUMQ/T7zoBXF5Ety4EDIWdwOUqBfovcM="}
