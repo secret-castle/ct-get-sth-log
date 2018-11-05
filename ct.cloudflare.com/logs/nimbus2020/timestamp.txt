@@ -1671,3 +1671,4 @@
 {"tree_size":5666375,"timestamp":1541446124857,"sha256_root_hash":"rR/mtTnhkq8ByPTEJI45Lj9630RZoIXigQhNI1Kid9E=","tree_head_signature":"BAMASDBGAiEA3Io46+keG3P1uQEW/Fq98L0nqw3XmY88bobrZwUOfIICIQCVXFv29CSSwmtZszVge/syTvW55JSsRjkUJNl0DJ3efQ=="}
 {"tree_size":5667246,"timestamp":1541449724661,"sha256_root_hash":"4xtln+7ag6miJy/dz/vX1fLYcIGc5N3ez3yE3Qy099s=","tree_head_signature":"BAMARzBFAiAZKS/H5EASQynOIX+KJK8xsiA6kCuEb3E21uZUR0XAKQIhAIsag0WVqYJz4LBLBrkz27wOKOd+O3Oad1/3Ng3bFMoy"}
 {"tree_size":5668101,"timestamp":1541453324722,"sha256_root_hash":"oTg9XzYne5IyL1ymQRX70HVn5R6hA7SA172j7fLshrs=","tree_head_signature":"BAMARzBFAiAyXETVX/SQSuyYRKTn7DIYxh03xvQ0ievlkO/hFTvzSQIhAIlq9jIIw/oamQyZjiU8MWNDa7TvUMZMvlyxxdGHP4d/"}
+{"tree_size":5668934,"timestamp":1541456925186,"sha256_root_hash":"bORWQZ3jZ7nrfZ2vLmr4B5Tifo++U7g/tpNTN+Ur+kk=","tree_head_signature":"BAMARzBFAiEAwep1qpJTIhkT++izWpZcBUn2RItyDig458SzBRkwBNkCIGwZCs27Ij2pW1bZ5ucfGD5GllwlNOCLnUcMk6olr09p"}
