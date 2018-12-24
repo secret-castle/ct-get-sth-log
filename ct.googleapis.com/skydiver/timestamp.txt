@@ -2873,3 +2873,4 @@
 {"tree_size":80221008,"timestamp":1545624544460,"sha256_root_hash":"fNNbP8q4yP0RBbiXdSFRRQxrQEufrYArOfEZVYQMuzg=","tree_head_signature":"BAMARzBFAiEAhe5DUU5JKghZ3DrMCTB4a7IReVeZFq4ooB/EckUKaIwCIBkMiFdBYAHtD0UIHgw+uCmS5LamjKZ3ejmsb5RcBrSO"}
 {"tree_size":80252464,"timestamp":1545628167817,"sha256_root_hash":"5ht0oeyAHk/OEtG3WwygU8Pceeidic5OH6IJcnPdapk=","tree_head_signature":"BAMARzBFAiEA4TtYDy6o+ase+aq8+XISTSceeHS4Du0MWegMYNZKIMsCID9+N2BLu0uy+TYbG7EuPQ2v5lNdVLRLaITH4UMBGTVS"}
 {"tree_size":80288731,"timestamp":1545631757375,"sha256_root_hash":"PU0Y6suDnBqg05+f0aX7QRbk7khTq+9gVWUohqBjOCo=","tree_head_signature":"BAMARjBEAiAA4P1MBpCHT1bf5p4CsyucfwNL81BTroF+JbM364R3LgIgd09ajlfkby1+kysPHqz+MCYL2seaeBGInE2pEoWqgsA="}
+{"tree_size":80301643,"timestamp":1545633186538,"sha256_root_hash":"JHieBR6uws0kjb1GvusJk+qQqL2bPXBos0AnnoPlyb4=","tree_head_signature":"BAMASDBGAiEA1iyIkMUiVSbncAM7LDQWjM3TYkdlXygeUGtoBHrRpYECIQDGGUJ+GjLAhBiXAdZgFoLj1c5rsZplgwIyOxdpuc6VgQ=="}
