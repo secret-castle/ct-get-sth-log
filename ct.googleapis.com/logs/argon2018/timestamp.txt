@@ -3441,3 +3441,4 @@
 {"tree_size":427478851,"timestamp":1547589515004,"sha256_root_hash":"L8cPDpzt38rIrKXOejUX8opXRybLYs0KKsRZFKKObQM=","tree_head_signature":"BAMARzBFAiAzY8c/ZIVzzLufgkwgdCN5ZT/d2W6TvIeLyzXM0CRDPQIhAL+23a2UM2OcF3K8um2QjmQhi0+QK/cKN9tYVQy+1kLM"}
 {"tree_size":427478852,"timestamp":1547592796051,"sha256_root_hash":"7Tx9erXsv9J6XCD+EhhBiKmLPE+aJic59kwmFIQaAPU=","tree_head_signature":"BAMARzBFAiEA+DrCtbkv7+xou8oMeJSOL+JZeKms6FeaLCwfGT9rTzwCIFHsjrdouQd5cS2GF1vEjJZTiiK03NKpjH8O4Aosql6L"}
 {"tree_size":427478854,"timestamp":1547595184585,"sha256_root_hash":"YfNuUXpd4Ncw7tEefIALQ6wp9EnB70wo1EDRzjQ+Lq4=","tree_head_signature":"BAMARzBFAiB/zG6Qf0zMXY3Q5vlJ0XXTrb7DO35ZCrTrp8KQ8P5UIwIhAJehHc35YYvKnxuC7uVfdEG8JxbOohk6rPhPzgHG9Zya"}
+{"tree_size":427478854,"timestamp":1547598785055,"sha256_root_hash":"YfNuUXpd4Ncw7tEefIALQ6wp9EnB70wo1EDRzjQ+Lq4=","tree_head_signature":"BAMARjBEAiATbjsl++73rFcaCE6Xo7R44M7hyrB8b3c/EPWDY4C3ygIgCWaJOf2YQkQMi50xFdFg3pH1UrB0jWS8fyIwCRgDg6Y="}
