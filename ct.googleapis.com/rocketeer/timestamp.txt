@@ -4446,3 +4446,4 @@
 {"tree_size":599971400,"timestamp":1551067830934,"sha256_root_hash":"i0MWQGT145BmM0HukGjyexPFUcQvdZY12PmDF62l7ok=","tree_head_signature":"BAMARzBFAiANuWhUeXU9atvkFsbQAkNrlJB75n7298GiKhM2DS30gAIhAKlJab7YCUOGlweKAtea21foHdztW8/ddM9RhDoIECee"}
 {"tree_size":599988746,"timestamp":1551071441403,"sha256_root_hash":"kPofM7eG5ysdm0hDSz1DC5DHrWAufY5yHKL2aPvMGKM=","tree_head_signature":"BAMASDBGAiEAgt4CUGF5pt1SYqrkl1T+7WesLM9/MtoMCZB0awUDHboCIQDhN1/I7vIwfsQ94xQkuMovWJPg197I0RbXkcvisZ/JNA=="}
 {"tree_size":600004902,"timestamp":1551075047414,"sha256_root_hash":"490DUuzoqvMw+lMWc6tC7we4czznQyxP4nyWHxOfv14=","tree_head_signature":"BAMARTBDAh8TGIk/m9IFApXuHtktsV8xNvqY9cj9m06zpPs0G4sMAiA39uTd7sBQPD4rtm5S7SVynT9wxfuGz444MwPeaqHBWg=="}
+{"tree_size":600021286,"timestamp":1551078548203,"sha256_root_hash":"khS0LS0R3o7ZLyFsp7caRfRb4t/gj4+yNGyZ/+CLEXw=","tree_head_signature":"BAMARzBFAiEA0fG47H7DrNZbGmCzczelE9FqEKQx3Mfg6U0jvyxj+/cCIBB+4jh6fDQkBd0H3tlSwhM6i0WZBZsIRqpRYyCFNkgH"}
