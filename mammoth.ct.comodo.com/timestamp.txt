@@ -4559,3 +4559,4 @@
 { "tree_size": 136076664, "timestamp": 1557215320088, "sha256_root_hash": "xeKLv+7ZW4z9TrF\/iaK40uVRyqvREkL1zVPLGpm7WVU=", "tree_head_signature": "BAMARzBFAiEAsJnpJGKLhBOg2S4g5CqG65fCCjw4untCZ3kDU\/YnxkcCIB6vgsSRN3\/jamndOSZt2gNBVo+ArqkK22fBQCAtCSbJ" }
 { "tree_size": 136420820, "timestamp": 1557301720082, "sha256_root_hash": "5GTCTXzVTdrhoM1R\/tpLnc5\/QQBYYqL8Dww2VZNjqFM=", "tree_head_signature": "BAMASDBGAiEAlATECW2XMKIsorrvz1yxSgKnCKVNyYpyMt\/\/wor72s4CIQCzopfSTvAXEioX7BDMqcwqg3M7V6PMVYT0D6P9WYObCw==" }
 
+{ "tree_size": 137008895, "timestamp": 1557474422830, "sha256_root_hash": "ICQ3\/sXXSFFlxhZOdFFwmGuDifnYxL\/SGRJ6yNoIF4k=", "tree_head_signature": "BAMASDBGAiEA0hfbKwqq01vdiIRdNJTIGaQsvuhk51\/c5JgL7hVkQG0CIQCRBBdT7uLBikdaCEXVrCjiqi1pe6CpQrO1XxYS0iWavQ==" }
