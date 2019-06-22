@@ -4602,3 +4602,4 @@
 {"tree_size":656914201,"timestamp":1560931954225,"sha256_root_hash":"bFbYEfLcEAhrykrtItUH7zv18YRgeIRtA50NBOCMdv4=","tree_head_signature":"BAMARjBEAiAZ1vrHxKUQKIMoEIqjPgvbFdrhJRO3I/to5V1huZBkUwIgb6j4FJc4k4sh8m3bfIsbvJ8jfEI4EPpsa3zonxpYCaI="}
 {"tree_size":657865786,"timestamp":1561018378020,"sha256_root_hash":"z3WvqBX+94qMeZzasmfdHTUJ0S3Qrfuj6BQ2TS8engU=","tree_head_signature":"BAMASDBGAiEA7hvRJx2MylRbFnWrfy5/DCIv9BpIgJgSfsh6faQy1BoCIQCRrBXydhhQSUxZ7LZPvOq4IuC6SF/oFGDgwa64XCDBKQ=="}
 {"tree_size":659051046,"timestamp":1561104841458,"sha256_root_hash":"01khJbc03r17mCWk9hoF2Ty/WJiNXP6SofoSlDU6df8=","tree_head_signature":"BAMARjBEAiBbX4dUWIYFKgJaOHDAwX6UIxRF9pUj1u/J9Lcp/FOnegIgfeu5ZGQLVKi+CfEyLmlJN7o59YaeqByRh4bGwqTh2V8="}
+{"tree_size":660048376,"timestamp":1561191230413,"sha256_root_hash":"ipbkhfTY8PCsJYln2Wd+wo+o51AsDSYUl9+stvmhbvo=","tree_head_signature":"BAMARzBFAiEAipm0M/sjfBY20qYeK0ea/kaiTx3P+/HMtj5P+X+cX3sCIHACPXynKbfutRUMBrTSJzRnUrTP2U9SfFm4WYCcynfH"}
