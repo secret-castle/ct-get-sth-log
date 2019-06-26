@@ -4606,3 +4606,4 @@
 {"tree_size":5300600,"timestamp":1561276427638,"sha256_root_hash":"iF5Y347UZ7Tpis2HtuMBcUDct6tvixdgB7s2lppSO8E=","tree_head_signature":"BAMARzBFAiB7OKOEOGCtpwdjznxVigmOP+L4DMAUU2jLE+xMP6HJQQIhALPoukVc6WSvyKD6Cio1Lqf9zjyL9OXDP+zcxOt7nVOx"}
 {"tree_size":5319276,"timestamp":1561363035916,"sha256_root_hash":"5vxQK34BHtT2d3Uafy/IhGCoJrmk/iUgGKbaTb7JmKk=","tree_head_signature":"BAMARjBEAiAhfZ4xVdt9rxSV4j1WRdRYPeg27ADMhdsYJGGnqgiq1QIgQcIMdmHB0F0asfFnbmiBgd+8vFZgKE6Sr7uO0kuS5To="}
 {"tree_size":5350937,"timestamp":1561449671586,"sha256_root_hash":"CQXGFWU3iFHAVN4l3Y88Wz4BxlLW6OCWVXJRQjuEcAA=","tree_head_signature":"BAMARjBEAiBi3pRP64ZzemHuLnU0Eu3e4FZpglamNSCTaN5QgPyKUgIgUmzR8v7ihBkmZzm4gpRcwICucwVkFCg72AgOF6UFX4w="}
+{"tree_size":5385563,"timestamp":1561536385472,"sha256_root_hash":"vTToqUgJ7OiKOgGFvl6uH14jW/ViahMe/ULC57/obBo=","tree_head_signature":"BAMASDBGAiEA0FF3Ppg8K7KLXX6CxloEVRGMjOSM4ql5vjQg8R3Byi4CIQDshr+LDk28ifFHXw4E6jibfENskp0/Zx7p5GG+MpuWDw=="}
