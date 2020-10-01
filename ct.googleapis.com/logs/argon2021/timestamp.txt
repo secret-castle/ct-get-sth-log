@@ -5068,3 +5068,4 @@
 {"tree_size":98483853,"timestamp":1601306018779,"sha256_root_hash":"lQu4aE75L4pdRBfaOWAcgv6HYP21dGZkftM7V3xM59E=","tree_head_signature":"BAMARjBEAiAjbF7mi2E7fq4KylNFIhrhbtDNpkWtlZa2mPdtNRXjIgIgF3OR/Do+NlcyVZtJ4ELS8HqGJnsNpMygSmHMg4X5uX4="}
 {"tree_size":99723058,"timestamp":1601392355452,"sha256_root_hash":"OFk7NN8z/rNweGGIcLedTMV2TZ9+swZFKtGvRdHl9pk=","tree_head_signature":"BAMARjBEAiAU6f/tpeZEEYDhZIWJKDAwsixOsb92ibjdtA5fFWkHuQIgZD7XtT9BQBkKTkGtudFwZKNUB3G9FL/gwckzdFKYQGQ="}
 {"tree_size":100012559,"timestamp":1601478879111,"sha256_root_hash":"Z1u7KYsbF45W5muE7fxWu1vJFNHzAWIm03P8cYi3iNY=","tree_head_signature":"BAMARjBEAiBKdNgBfIsz+Ayt3rnTpoEYqYeCN9HH0n/opesv/PLxigIgWZ6I5DCD1j0FaRFtMESbQbfRa5DDo7BSdIsHoiIcpTc="}
+{"tree_size":100229374,"timestamp":1601565477882,"sha256_root_hash":"uQ0JEXWiY2/dnGnk5/USCory+mbJTEP2YizuQmYRisQ=","tree_head_signature":"BAMARzBFAiBox4Tc/cxndahHXQ5+dgtUIzyg3sN317a7LMs6I2+evwIhAKiHjrYkB3TbP7J8m8qmFBA4qZ74TgQA0gVl4YmWRgyr"}
